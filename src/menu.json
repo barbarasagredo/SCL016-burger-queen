@@ -1,0 +1,232 @@
+[
+  {
+    "id": "001",
+    "name": "Sandwich tofu revuelto",
+    "category": "desayuno",
+    "price": 1500,
+    "ingredients": [
+      "pan integral",
+      "tofu",
+      "condimentos"
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Sandwich hummus",
+    "category": "desayuno",
+    "price": 1500,
+    "ingredients": [
+      "pan integral",
+      "hummus de garbanzo"
+    ]
+  },
+  {
+    "id": "003",
+    "name": "Sandwich vegetales frescos",
+    "category": "desayuno",
+    "price": 1800,
+    "ingredients": [
+      "tomate",
+      "lechuga",
+      "pan integral",
+      "palta",
+      "mayonesa vegana"
+    ]
+  },
+  {
+    "id": "004",
+    "name": "Galletas integrales",
+    "category": "desayuno",
+    "price": 1000,
+    "ingredients": [
+      "galletas de avena"
+    ]
+  },
+  {
+    "id": "005",
+    "name": "Kuchen de frutas",
+    "category": "desayuno",
+    "price": 1800,
+    "ingredients": [
+      "azucar",
+      "fruta",
+      "harina"
+    ]
+  },
+  {
+    "id": "006",
+    "name": "Brownie de porotos negros",
+    "category": "desayuno",
+    "price": 1800,
+    "ingredients": [
+      "harina",
+      "porotos negro",
+      "banana",
+      "azucar",
+      "aceite"
+    ]
+  },
+  {
+    "id": "007",
+    "name": "Lasaña de berenjenas",
+    "category": "almuerzo",
+    "price": 2200,
+    "ingredients": [
+      "berenjenas",
+      "salsa bolognesa de soya",
+      "camote",
+      "condimentos",
+      "queso vegano"
+    ]
+  },
+  {
+    "id": "008",
+    "name": "Asado al horno",
+    "category": "almuerzo",
+    "price": 2500,
+    "ingredients": [
+      "papas rústicas",
+      "mix de verduras asadas",
+      "cebolla caramelizada",
+      "salsa de champiñones"
+    ]
+  },
+  {
+    "id": "009",
+    "name": "Pasta al pesto con tofu salteado",
+    "category": "almuerzo",
+    "price": 2500,
+    "ingredients": [
+      "pasta",
+      "salsa pesto",
+      "tofu",
+      "salsa agridulce",
+      "tomate cherri"
+    ]
+  },
+  {
+    "id": "010",
+    "name": "Falafel con ensalada magestuosa",
+    "category": "almuerzo",
+    "price": 2000,
+    "ingredients": [
+      "patatas",
+      "huevos",
+      "cebolla",
+      "sal",
+      "aceite"
+    ]
+  },
+  {
+    "id": "011",
+    "name": "Crema de vegetales",
+    "category": "almuerzo",
+    "price": 1800,
+    "ingredients": [
+      "zapallo",
+      "crema de coco",
+      "caldo de verduras"
+    ]
+  },
+  {
+    "id": "012",
+    "name": "Café americano",
+    "category": "bebestible",
+    "price": 1400,
+    "ingredients": [
+      "café molido",
+      "azúcar o endulzante"
+    ]
+  },
+  {
+    "id": "013",
+    "name": "Café con leche",
+    "category": "bebestible",
+    "price": 1600,
+    "ingredients": [
+      "café molido",
+      "leche vegetal",
+      "azúcar o endulzante"
+    ]
+  },
+  {
+    "id": "014",
+    "name": "Té negro",
+    "category": "bebestible",
+    "price": 1200,
+    "ingredients": [
+      "té negro",
+      "azúcar o endulzante"
+    ]
+  },
+  {
+    "id": "015",
+    "name": "Té matcha",
+    "category": "bebestible",
+    "price": 1800,
+    "ingredients": [
+      "té matcha",
+      "leche vegetal",
+      "azúcar o endulzante"
+    ]
+  },
+  {
+    "id": "016",
+    "name": "Chocolate caliente",
+    "category": "bebestible",
+    "price": 1800,
+    "ingredients": [
+      "leche vegetal",
+      "cacao en polvo",
+      "azúcar o endulzante"
+    ]
+  },
+  {
+    "id": "017",
+    "name": "Té de hierbas",
+    "category": "bebestible",
+    "price": 1200,
+    "ingredients": [
+      "té de hierbas",
+      "azúcar o endulzante"
+    ]
+  },
+  {
+    "id": "018",
+    "name": "Jugo natural",
+    "category": "bebestible",
+    "price": 1500,
+    "ingredients": [
+      "fruta",
+      "azúcar o endulzante"
+    ]
+  },
+  {
+    "id": "019",
+    "name": "Bebida",
+    "category": "bebestible",
+    "price": 1500,
+    "ingredients": [
+      "bebida enlatada"
+    ]
+  },
+  {
+    "id": "020",
+    "name": "Té helado",
+    "category": "bebestible",
+    "price": 1500,
+    "ingredients": [
+      "té negro",
+      "azúcar o endulzante"
+    ]
+  },
+  {
+    "id": "021",
+    "name": "Agua gasificada",
+    "category": "bebestible",
+    "price": 1000,
+    "ingredients": [
+      "agua enbotellada con gas"
+    ]
+  }
+]
