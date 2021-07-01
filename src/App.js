@@ -1,15 +1,16 @@
 import React from 'react';
-import './App.css';
-import lateralBar from './componentes/lateralBar';
-import superiorBar from './componentes/Header';
+import Header from './components/Header.jsx';
+import LateralBar from './components/LateralBar.jsx';
+
 
 const App = () => {
   return (
-    <div>
-      <superiorBar />
-      <lateralBar />
-
-    </div>
+<div>
+  <Header />
+  <hr></hr>
+  <h1>hola mundo</h1>
+  <LateralBar />
+</div>
   );
 }
 
