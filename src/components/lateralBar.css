@@ -1,0 +1,18 @@
+
+.lateral {
+    display: flex;
+    justify-content:space-around;
+    flex-direction:column-reverse;
+    background-color: #c4c4c4;
+    width: 5vw;
+    height: 92vh;
+  }
+
+  .bottonNavigation {
+    flex-direction: column;
+    background-color: transparent;
+  }
+
+  .bottonNavigation button{
+    width: 50px;
+  }

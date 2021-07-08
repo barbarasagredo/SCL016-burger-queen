@@ -1,15 +1,19 @@
 import React from 'react';
 import Header from './components/Header.jsx';
 import LateralBar from './components/LateralBar.jsx';
+import Menu from './components/Menu.jsx'
+import './app.css'
 
 
 const App = () => {
   return (
-<div>
+<div className= 'first'>
   <Header />
-  <hr></hr>
-  <h1>hola mundo</h1>
+  <div className="mainContainer">
   <LateralBar />
+  <Menu />
+  </div>
+
 </div>
   );
 }
